@@ -1,0 +1,11 @@
+E:\repos\WCF_TOKEN_EVAL\WCF_TOKEN_EVAL\bin\Debug\WCF_TOKEN_EVAL.exe.config
+E:\repos\WCF_TOKEN_EVAL\WCF_TOKEN_EVAL\bin\Debug\WCF_TOKEN_EVAL.exe
+E:\repos\WCF_TOKEN_EVAL\WCF_TOKEN_EVAL\bin\Debug\WCF_TOKEN_EVAL.pdb
+E:\repos\WCF_TOKEN_EVAL\WCF_TOKEN_EVAL\bin\Debug\WCF_TOKEN_EVAL.xml
+E:\repos\WCF_TOKEN_EVAL\WCF_TOKEN_EVAL\obj\Debug\WCF_TOKEN_EVAL.vbproj.SuggestedBindingRedirects.cache
+E:\repos\WCF_TOKEN_EVAL\WCF_TOKEN_EVAL\obj\Debug\WCF_TOKEN_EVAL.Resources.resources
+E:\repos\WCF_TOKEN_EVAL\WCF_TOKEN_EVAL\obj\Debug\WCF_TOKEN_EVAL.vbproj.GenerateResource.cache
+E:\repos\WCF_TOKEN_EVAL\WCF_TOKEN_EVAL\obj\Debug\WCF_TOKEN_EVAL.vbproj.CoreCompileInputs.cache
+E:\repos\WCF_TOKEN_EVAL\WCF_TOKEN_EVAL\obj\Debug\WCF_TOKEN_EVAL.exe
+E:\repos\WCF_TOKEN_EVAL\WCF_TOKEN_EVAL\obj\Debug\WCF_TOKEN_EVAL.xml
+E:\repos\WCF_TOKEN_EVAL\WCF_TOKEN_EVAL\obj\Debug\WCF_TOKEN_EVAL.pdb
